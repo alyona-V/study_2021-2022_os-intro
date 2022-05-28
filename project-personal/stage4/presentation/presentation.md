@@ -3,7 +3,7 @@
 lang: ru-RU
 title: stage4
 author: |
-	Kate P. Mitichkina \inst{1}
+	Alyona Voropaeva \inst{1}
 institute: |
 	\inst{1}RUDN University, Moscow, Russian Federation
 date: 16 May, 2022 Moscow, Russia
